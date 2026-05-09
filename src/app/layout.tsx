@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body className="bg-gray-950 text-gray-100 min-h-screen">
+      <body className="bg-gray-950 text-gray-100 min-h-screen" suppressHydrationWarning>
         <header className="border-b border-gray-800 px-6 py-4">
           <h1 className="text-xl font-bold tracking-tight text-amber-400 flex items-center gap-2">
             <Image src="/Woo.png" alt="Woo logo" width={40} height={40} />

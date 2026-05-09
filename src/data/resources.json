@@ -4,7 +4,9 @@
     "title": "Interview Prep",
     "resources": [
       { "name": "NeetCode", "url": "https://neetcode.io", "description": "Curated coding interview problems with video explanations" },
-      { "name": "LeetCode", "url": "https://leetcode.com", "description": "Practice coding problems used in real tech interviews" }
+      { "name": "LeetCode", "url": "https://leetcode.com", "description": "Practice coding problems used in real tech interviews" },
+      { "name": "interviewing.io", "url": "https://interviewing.io", "description": "Anonymous mock interviews with real FAANG engineers, with detailed feedback" },
+      { "name": "Pramp", "url": "https://www.pramp.com", "description": "Free peer-to-peer mock interview platform for coding and behavioral prep" }
     ]
   },
   {
@@ -12,14 +14,19 @@
     "title": "System Design",
     "resources": [
       { "name": "ByteByteGo", "url": "https://bytebytego.com", "description": "Visual system design guides by Alex Xu" },
-      { "name": "System Design School Primer", "url": "https://systemdesignschool.io/primer", "description": "Structured primer on system design concepts with examples" }
+      { "name": "System Design School Primer", "url": "https://systemdesignschool.io/primer", "description": "Structured primer on system design concepts with examples" },
+      { "name": "Designing Data-Intensive Applications", "url": "https://dataintensive.net", "description": "The most-referenced system design book in the industry, by Martin Kleppmann" },
+      { "name": "High Scalability", "url": "http://highscalability.com", "description": "Real-world architecture case studies from companies like Netflix, Twitter, and more" }
     ]
   },
   {
     "id": "ai-ml",
     "title": "AI / ML",
     "resources": [
-      { "name": "3Blue1Brown ML", "url": "https://www.3blue1brown.com/topics/neural-networks", "description": "Visual math intuitions for neural networks" }
+      { "name": "3Blue1Brown ML", "url": "https://www.3blue1brown.com/topics/neural-networks", "description": "Visual math intuitions for neural networks" },
+      { "name": "fast.ai", "url": "https://www.fast.ai", "description": "Practical deep learning with a top-down approach, great complement to theory resources" },
+      { "name": "Hugging Face", "url": "https://huggingface.co", "description": "Model hub and free NLP/ML courses, the industry standard for open-source AI" },
+      { "name": "Kaggle", "url": "https://www.kaggle.com", "description": "ML competitions and datasets to practice building real models" }
     ]
   },
   {
@@ -29,7 +36,10 @@
       { "name": "Andrej Karpathy", "url": "https://www.youtube.com/@AndrejKarpathy", "description": "Neural networks explained from scratch" },
       { "name": "ALifeEngineered", "url": "https://www.youtube.com/@ALifeEngineered", "description": "Engineer career advice" },
       { "name": "Dwarkesh Patel", "url": "https://www.youtube.com/@DwarkeshPatel", "description": "AI podcast and deep-dive interviews" },
-      { "name": "Ryan Peterman", "url": "https://www.youtube.com/@RyanLPeterman", "description": "SWE career stories" }
+      { "name": "Ryan Peterman", "url": "https://www.youtube.com/@RyanLPeterman", "description": "SWE career stories" },
+      { "name": "Fireship", "url": "https://www.youtube.com/@Fireship", "description": "Fast, dense tutorials on every modern tech topic" },
+      { "name": "ThePrimeagen", "url": "https://www.youtube.com/@ThePrimeTimeagen", "description": "CS fundamentals, tools, performance, and career takes" },
+      { "name": "Lex Fridman", "url": "https://www.youtube.com/@lexfridman", "description": "Long-form AI, ML, and tech interviews great for exploring ideas" }
     ]
   },
   {
@@ -39,7 +49,8 @@
       { "name": "BlueDot Impact", "url": "https://www.bluedot.org", "description": "AI safety courses and community for aspiring researchers" },
       { "name": "MATS", "url": "https://www.matsprogram.org/", "description": "ML Alignment Theory Scholars fellowship" },
       { "name": "Anthropic Fellows", "url": "https://alignment.anthropic.com/2024/anthropic-fellows-program", "description": "Anthropic's AI safety research fellowship" },
-      { "name": "Astra Fellowship", "url": "https://www.constellation.org/programs/astra-fellowship", "description": "Constellation's fellowship for AI safety research" }
+      { "name": "Astra Fellowship", "url": "https://www.constellation.org/programs/astra-fellowship", "description": "Constellation's fellowship for AI safety research" },
+      { "name": "AI Safety Fundamentals", "url": "https://aisafety.world", "description": "Structured 8-week intro curriculum to AI safety, widely used by aspiring researchers" }
     ]
   },
   {
@@ -48,7 +59,9 @@
     "resources": [
       { "name": "CodePath", "url": "https://www.codepath.org/", "description": "Free coding courses and career support for students" },
       { "name": "80,000 Hours", "url": "https://80000hours.org/", "description": "Research-driven guide to high-impact careers" },
-      { "name": "Good First Issue", "url": "https://goodfirstissue.dev", "description": "Find beginner-friendly GitHub issues across popular projects" }
+      { "name": "Good First Issue", "url": "https://goodfirstissue.dev", "description": "Find beginner-friendly GitHub issues across popular projects" },
+      { "name": "Blind", "url": "https://www.teamblind.com", "description": "Anonymous community for honest salary, company culture, and interview talk" },
+      { "name": "ColorStack", "url": "https://www.colorstack.org", "description": "Community for Black and Latino CS students with job referrals and mentorship" }
     ]
   },
   {
@@ -66,7 +79,8 @@
     "title": "Mass Application",
     "resources": [
       { "name": "Job Application Tracker (Google Sheets)", "url": "https://docs.google.com/spreadsheets/d/1f8MsELOgmuHsAkvRueEAFL3ImyxZPhEyAOkUsuYx3k8/edit?gid=498543292#gid=498543292", "description": "Spreadsheet template to track job applications" },
-      { "name": "Simplify", "url": "https://simplify.jobs", "description": "Autofill job applications, track statuses, and discover roles" }
+      { "name": "Simplify", "url": "https://simplify.jobs", "description": "Autofill job applications, track statuses, and discover roles" },
+      { "name": "Handshake", "url": "https://joinhandshake.com", "description": "The campus recruiting platform most universities use; many companies only post here for students" }
     ]
   },
   {
@@ -75,7 +89,9 @@
     "resources": [
       { "name": "MLH Fellowship", "url": "https://fellowship.mlh.io", "description": "Open source fellowship for aspiring technologists" },
       { "name": "Headstart Fellowship", "url": "https://www.headstartfellowship.com", "description": "Fellowship connecting students with startups" },
-      { "name": "Neo Scholars", "url": "https://neo.com/scholars", "description": "Community and funding for ambitious builders" }
+      { "name": "Neo Scholars", "url": "https://neo.com/scholars", "description": "Community and funding for ambitious builders" },
+      { "name": "Break Through Tech", "url": "https://breakthroughtech.org", "description": "AI and tech programs for women and underrepresented students" },
+      { "name": "CODE2040", "url": "https://www.code2040.org", "description": "Programs specifically for Black and Latino tech talent" }
     ]
   },
   {
@@ -96,7 +112,8 @@
       { "name": "New Grad Positions", "url": "https://github.com/SimplifyJobs/New-Grad-Positions", "description": "Community-maintained list of new grad roles" },
       { "name": "LinkedIn", "url": "https://www.linkedin.com/jobs", "description": "Professional networking and job board" },
       { "name": "Glassdoor", "url": "https://www.glassdoor.com", "description": "Job listings, salary data, and company reviews" },
-      { "name": "Levels.fyi", "url": "https://www.levels.fyi/?tab=levels", "description": "Tech salary data and compensation comparisons" }
+      { "name": "Levels.fyi", "url": "https://www.levels.fyi/?tab=levels", "description": "Tech salary data and compensation comparisons" },
+      { "name": "Wellfound", "url": "https://wellfound.com", "description": "Best place for startup job listings, formerly AngelList Talent" }
     ]
   },
   {
@@ -105,7 +122,10 @@
     "resources": [
       { "name": "Claude Code", "url": "https://docs.anthropic.com/en/docs/claude-code", "description": "Anthropic's CLI for agentic coding with Claude" },
       { "name": "Cursor", "url": "https://www.cursor.com/", "description": "AI-powered code editor" },
-      { "name": "Model Context Protocol", "url": "https://modelcontextprotocol.io/", "description": "Open protocol for connecting AI to tools and data" }
+      { "name": "Model Context Protocol", "url": "https://modelcontextprotocol.io/", "description": "Open protocol for connecting AI to tools and data" },
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "description": "AI pair programmer, free for students via GitHub Education" },
+      { "name": "Warp", "url": "https://www.warp.dev", "description": "AI-powered terminal worth learning early in your career" },
+      { "name": "Docker", "url": "https://www.docker.com", "description": "Containerization tool, expected knowledge for most SWE roles" }
     ]
   },
   {
@@ -114,7 +134,9 @@
     "resources": [
       { "name": "Stanford TreeHacks", "url": "https://www.treehacks.com/", "description": "Stanford's premier annual hackathon" },
       { "name": "HackHarvard", "url": "https://www.hackharvard.io/", "description": "Harvard's annual hackathon" },
-      { "name": "HackMIT", "url": "https://hackmit.org/", "description": "MIT's annual hackathon" }
+      { "name": "HackMIT", "url": "https://hackmit.org/", "description": "MIT's annual hackathon" },
+      { "name": "MLH", "url": "https://mlh.io", "description": "Major League Hacking — the hub listing all sanctioned hackathons worldwide" },
+      { "name": "Devpost", "url": "https://devpost.com", "description": "Discover and submit to hackathons globally" }
     ]
   },
   {
