@@ -114,6 +114,7 @@
       { "name": "Glassdoor", "url": "https://www.glassdoor.com", "description": "Job listings, salary data, and company reviews" },
       { "name": "Levels.fyi", "url": "https://www.levels.fyi/?tab=levels", "description": "Tech salary data and compensation comparisons" },
       { "name": "Wellfound", "url": "https://wellfound.com", "description": "Best place for startup job listings, formerly AngelList Talent" }
+      { "name": "Simplify", "url": "https://simplify.jobs/", "description": "One-click job applications and autofill for tech roles" }
     ]
   },
   {
